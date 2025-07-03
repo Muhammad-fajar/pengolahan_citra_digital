@@ -1,0 +1,2 @@
+# pengolahan_citra_digital
+Revisi_kelompok_2_Fajar_Elly_Riska
